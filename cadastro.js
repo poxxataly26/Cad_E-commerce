@@ -20,9 +20,9 @@ function Verificar(){
     if(!nome || !cpf || !email || !rg || !data || !estado || !cidade || !cep || !bairro || !rua || !numero ||!complemento || !senha || !senhax){
         alert("Campos de preenchimento obrigatório. Favor preencher");
     }else{
-        alert("Campos preenchidos com ");
+        alert("Campos preenchidos com sucesso");
     }
-    if((senha2 !== '' && senha !== '') && senha2 == senha){
+    if((senhax !== '' && senha !== '') && senhax == senha){
     }else{
         alert("Sua senha esta incorreta");
     }
