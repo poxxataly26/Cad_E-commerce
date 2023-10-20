@@ -1,7 +1,7 @@
 //###########################
 //Código de validação de formulário de Cadastro
 
-/*function Verificar(){
+function Verificar(){
     let nome = document.getElementById('nome').value;
     let cpf = document.getElementById('CPF').value;
     let email = document.getElementById('email').value;
@@ -27,7 +27,7 @@
         alert("Sua senha esta incorreta");
     }
     }
-*/
+
 'use strict'; // Modo restrito
 //Consumindo API de CEP, do ViaCep
 // https://viacep.com.br/
