@@ -7,7 +7,7 @@
     <title>Cadastro</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
-    <script src='cadastro.js'></script>
+
 </head>
 <body>
     <div class="form">
@@ -25,18 +25,19 @@
             <input type="date" name="data" id="data"><br><br>
 
             <h2>Endereço</h2><br>
-            <label for="estado">Estado:</label>
-            <input type="text" placeholder="Estado" id="estado">
-            <label for="cidade">Cidade:</label>
-            <input type="text" placeholder="Cidade" id="cidade"><br><br>
+
             <label for="cep">CEP:</label>
-            <input type="number" placeholder="21365-000" id="cep"><br><br>
-            <label for="bairro">Bairro:</label>
-            <input type="text" placeholder="Bairro" id="bairro"><br><br>
+            <input type="text" placeholder="21365-000" id="cep"><br><br>
             <label for="rua">Rua:</label>
             <input type="text" size="30" placeholder="Insira a rua" id="rua">
             <label for="nu">Numero:</label>
             <input type="text" size="5" placeholder="Número" id="numero"><br><br>
+            <label for="bairro">Bairro:</label>
+            <input type="text" placeholder="Bairro" id="bairro"><br><br>
+            <label for="cidade">Cidade:</label>
+            <input type="text" placeholder="Cidade" id="cidade"><br><br>
+            <label for="estado">Estado:</label>
+            <input type="text" placeholder="Estado" id="estado">
             <label for="complemento">Complemento:</label>
             <input type="text" size="20" placeholder="Andar, Apartamento, Bloco" id="complemento"><br><br>
             <label for="senha">Senha:</label><br>
@@ -46,5 +47,6 @@
             <input type="submit" value="cadastrar" onclick="Verificar()">
         </form>
     </div>
+    <script src='cadastro.js'></script>
 </body>
 </html>

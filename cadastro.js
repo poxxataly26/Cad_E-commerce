@@ -5,7 +5,6 @@ function Verificar(){
     let nome = document.getElementById('nome').value;
     let cpf = document.getElementById('CPF').value;
     let email = document.getElementById('email').value;
-    let rg = document.getElementById('rg').value;
     let data = document.getElementById('data').value;
     let estado = document.getElementById('estado').value;
     let cidade = document.getElementById('cidade').value;
