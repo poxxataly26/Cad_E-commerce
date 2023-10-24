@@ -10,22 +10,18 @@ Dessa forma, o código funciona de forma completa e eficiente para validar e pre
 ## Descrição
 
 
+### Tecnologias utilizadas
 
+- HTML5: Estrutura do conteúdo da página.
+- CSS3: O código CSS define o estilo visual do formulário de cadastro, incluindo a cor de fundo, tamanho, fonte e estilos dos campos do formulário, botões e rótulos.
+- JavaScript: É uma linguagem de programação utilizada para desenvolver aplicações para a web e para dispositivos.
+- git: é um smóveisistema de controle de versionamento de código. Ele é usado para gerenciar arquivos de texto de um projeto em desenvolvimento e acompanhar suas alterações ao longo do tempo. 
+- GitHub: pode criar seu repositório, compartilhar seu trabalho com outros, receber contribuições ou corrigir problemas em projetos de outras pessoas.
 
+- Além disso é usado um API externa (ViaCep) através do JavaScript para buscar informações de endereço a partir do cep informado.
 
-O código CSS define o estilo visual do formulário de cadastro, incluindo a cor de fundo, tamanho, fonte e estilos dos campos do formulário, botões e rótulos.
+## Autores
 
-No geral, este código pode ser usado para criar um formulário de cadastro básico com um estilo agradável e validação de preenchimento obrigatório e comprimento correto. No entanto, é necessário um arquivo de script JavaScript adicionado para assegurar a devida funcionalidade. 
+[Talyta](https://github.com/poxxataly26/portfolio-pessoal) 
 
-
-
-O formulário contem campos para coleta de:
-
-Email
-Nome
-Telefone
-Data de Nascimento
-CPF
-Endereço (Completo)
-Senha (e confirmação de senha)
-
+<img src="https://github.com/poxxataly26/portfolio-pessoal/blob/main/Img/foto.jpeg" width="100px">
