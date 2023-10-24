@@ -22,6 +22,6 @@ Dessa forma, o código funciona de forma completa e eficiente para validar e pre
 
 ## Autores
 
-[Talyta](https://github.com/poxxataly26/Cad_E-commerce) 
+[Talyta](https://github.com/poxxataly26/Cad_E-commerce/blob/main/img/foto.jpeg) 
 
-<img src="https://github.com/poxxataly26/Cad_E-commerce/blob/main/Img/foto.jpeg" width="100px">
+<img src="https://github.com/poxxataly26/Cad_E-commerce/blob/main/img/foto.jpeg" width="100px">
