@@ -1,5 +1,7 @@
 # Cad_E-commerce
 
+![image info]()
+
 ## Introdução
 O código apresenta um formulário de cadastro com campos para preencher informações pessoais, endereço e senha. Ao clicar em "Cadastrar", uma função JavaScript verifica se os campos obrigatórios foram preenchidos corretamente e se as senhas for correta. O código também faz uma requisição em uma API para preencher automaticamente os campos de endereço a partir do CEP informado pelo usuário.
 
