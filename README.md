@@ -3,14 +3,28 @@
 ![image info](https://github.com/poxxataly26/Cad_E-commerce/blob/main/img/Gif.gif1_1.gif)
 
 ## Introdução
+
 O código apresenta um formulário de cadastro com campos para preencher informações pessoais, endereço e senha. Ao clicar em "Cadastrar", uma função JavaScript verifica se os campos obrigatórios foram preenchidos corretamente e se as senhas for correta. O código também faz uma requisição em uma API para preencher automaticamente os campos de endereço a partir do CEP informado pelo usuário.
 
 ## Descrição
+
 Este código é responsável por validar e preencher os campos do formulário de cadastro. É possível verificar a presença de dados nos campos obrigatórios, como nome, CPF, email, data de nascimento, estado, cidade, CEP, bairro, rua, número, complemento, senha e confirmação da senha. A uma verificação de senha correta quando o usuário digita nos campos "senha" e "confirmação".
 
 Esse código também consome uma API de consulta de CEP, através dos dados da [ViaCep](https://viacep.com.br/). Uma vez que o usuário preenche o campo "CEP", a função pesquisarCep é acionada, realizando uma pesquisa na base de dados do ViaCep para obter informações do endereço do usuário. Se o CEP for válido, ela buscará as informações de endereço e preencherá o formulário com esses dados.
 
 Dessa forma, o código funciona de forma completa e eficiente para validar e preencher os campos do formulário de cadastro, bem como consultar e inserir informações de endereço do usuário.
+
+## E-commerce 
+
+Para realizar a pesquisa dos E-commerces, busquei apps de venda de produtos na internet, como `lojas online`, `comprar online`, `e-commerce`, etc. A partir dessa busca, selecionei alguns sites que se encaixava bem na minha tela de login. 
+
+Não acrescentei campos, apenas retirei o campo de RG.
+
+Os sites de E-commerce utilizados foram:
+
+- `Shein:` é uma loja virtual de moda que vende uma grande variedade de roupas, calçados e acessórios.
+- `Mercado Livre:` é um app de comércio eletrônico que oferece uma grande variedade de produtos de diversos vendedores e tipos de objetos, desde eletrônicos até alimentos e produtos de beleza.
+- `Shopee:` é um app de comércio eletrônico que oferece também uma grande variedade de produtos de diversos vendedores e tipos de objetos.
 
 ### Tecnologias utilizadas
 
@@ -23,7 +37,7 @@ Dessa forma, o código funciona de forma completa e eficiente para validar e pre
 
 ## Fontes consultadas
 
-[Shopp](https://shopee.com.br/)  
+[Shopee](https://shopee.com.br/)  
 [MercadoLivre](https://www.mercadolivre.com.br/)  
 [Shein](https://br.shein.com/)  
 
