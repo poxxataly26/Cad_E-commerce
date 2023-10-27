@@ -12,7 +12,6 @@ Esse código também consome uma API de consulta de CEP, através dos dados da [
 
 Dessa forma, o código funciona de forma completa e eficiente para validar e preencher os campos do formulário de cadastro, bem como consultar e inserir informações de endereço do usuário.
 
-
 ### Tecnologias utilizadas
 
 - HTML5: Estrutura do conteúdo da página.
