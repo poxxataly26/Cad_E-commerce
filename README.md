@@ -22,6 +22,12 @@ Dessa forma, o código funciona de forma completa e eficiente para validar e pre
 - GitHub: pode criar seu repositório, compartilhar seu trabalho com outros, receber contribuições ou corrigir problemas em projetos de outras pessoas.
 - Além disso é usado um API externa (ViaCep) através do JavaScript para buscar informações de endereço a partir do cep informado.
 
+## Fontes consultadas
+
+[Shopp](https://shopee.com.br/)
+[MercadoLivre](https://www.mercadolivre.com.br/)
+[Shein](https://br.shein.com/)
+
 ## Autores
 
 [Talyta](https://github.com/poxxataly26/Cad_E-commerce/blob/main/img/foto.jpeg) 
