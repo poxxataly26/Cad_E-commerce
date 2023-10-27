@@ -1,6 +1,6 @@
 # Cad_E-commerce
 
-![image info]()
+![image info](https://github.com/poxxataly26/Cad_E-commerce/blob/main/img/Gif.gif1_1.gif)
 
 ## Introdução
 O código apresenta um formulário de cadastro com campos para preencher informações pessoais, endereço e senha. Ao clicar em "Cadastrar", uma função JavaScript verifica se os campos obrigatórios foram preenchidos corretamente e se as senhas for correta. O código também faz uma requisição em uma API para preencher automaticamente os campos de endereço a partir do CEP informado pelo usuário.
