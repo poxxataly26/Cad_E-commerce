@@ -24,9 +24,9 @@ Dessa forma, o código funciona de forma completa e eficiente para validar e pre
 
 ## Fontes consultadas
 
-[Shopp](https://shopee.com.br/)
-[MercadoLivre](https://www.mercadolivre.com.br/)
-[Shein](https://br.shein.com/)
+[Shopp](https://shopee.com.br/)  
+[MercadoLivre](https://www.mercadolivre.com.br/)  
+[Shein](https://br.shein.com/)  
 
 ## Autores
 
